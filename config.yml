@@ -1,0 +1,30 @@
+---
+book_repo: pivotal-cf/docs-book-addon-fim
+layout_repo: pivotal-cf/docs-layout-repo
+
+feedback_enabled: true
+
+broken_link_exclusions: iefix|arrowhead
+repo_link_enabled: true
+
+public_host: docs.pivotal.io
+
+elastic_search: true
+
+sections:
+
+- repository:
+    name: pivotal-cf/docs-addon-fim
+    ref: 'v1.2'
+  directory: addon-fim/1-2
+  subnav_template: addon_fim_1-2.erb
+  product_info:
+    use_local_header: true
+    latest_stable_version: 1.2
+    local_header_img: /images/cloud_rings.png
+    local_header_title: File Integrity Monitoring Add-on for PCF
+    search_placeholder: Search Fim Add-on for PCF 1.2
+    url_prefix: addon-fim/1-2
+    local_product_version: 1.2
+    local_header_links: []
+    local_header_version_list: []
