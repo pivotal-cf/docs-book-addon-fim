@@ -15,10 +15,25 @@ template_variables:
   support_call_to_action: <a href="http://support.pivotal.io" target="_blank">Need Support?</a>
   support_url: http://support.pivotal.io
   path_to_partials: /fim/partials
-
   api_version: 235
   gtm_account_id: GTM-MW4LZHR
 
+# Product variables
+  platform_name: Pivotal Platform
+  platform_old: Pivotal Cloud Foundry
+  platform_code: PCF
+  product_name_lc: pcf
+  app_runtime_full: Pivotal Application Service
+  app_runtime: Application Service
+  app_runtime_abbr: PAS
+  k8s_runtime_full: Enterprise Pivotal Container Service
+  k8s_runtime: Enterprise PKS
+  k8s_runtime_abbr: PKS
+  windows_runtime_full: Pivotal Application Service for Windows
+  windows_runtime: Application Service for Windows
+  windows_runtime_abbr: PASW
+
+# Book content variables
   admin: your Cloud Foundry administrator
   api_endpoint_book: For more information, see the [Identifying the API Endpoint for your Elastic Runtime Instance topic](http://docs.pivotal.io/pivotalcf/customizing/api-endpoint.html).
   api_endpoint: <a href="http://docs.pivotal.io/pivotalcf/opsguide/api-endpoint.html">the URL of the Cloud Controller in your Elastic Runtime instance</a>
