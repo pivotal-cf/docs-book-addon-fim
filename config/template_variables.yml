@@ -19,6 +19,8 @@ template_variables:
   gtm_account_id: GTM-MW4LZHR
 
 # Product variables
+  ops_manager_full: Pivotal Operations Manager
+  ops_manager: Ops Manager
   platform_name: Pivotal Platform
   platform_old: Pivotal Cloud Foundry
   platform_code: PCF
