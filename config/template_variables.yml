@@ -7,7 +7,6 @@ template_variables:
   hero_text: "Detailed documentation to help you install, understand, and succeed with Pivotal's enterprise-grade software."
   product_full: Pivotal File Integrity Monitoring
   product_short: File Integrity Monitoring
-  product_name:
   product_abbr: FIM
   product_old: File Integrity Monitoring for Pivotal Cloud Foundry
   product_url: https://network.pivotal.io/products/p-fim-addon/
