@@ -8,6 +8,7 @@ template_variables:
   product_full: Pivotal File Integrity Monitoring
   product_short: File Integrity Monitoring
   product_abbr: FIM
+  product_name: Pivotal File Integrity Monitoring #Do not use in the future.
   product_old: File Integrity Monitoring for Pivotal Cloud Foundry
   product_url: https://network.pivotal.io/products/p-fim-addon/
   product_link: <div class="header-item"><a href="https://network.pivotal.io/products/pivotal-cf">Back to Product Page</a></div>
