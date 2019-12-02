@@ -4,4 +4,6 @@ r301 %r{.*}, 'https://docs.pivotal.io$&', :if => Proc.new { |rack_env|
 }
 
 # default product redirect
-r301 %r{/addon-fim/(?![\d-]+)(.*)}, "/addon-fim/1-4/$1" 
+r301 %r{/addon-fim/(?![\d-]+)(.*)}, "/addon-fim/1-4/$1"
+
+r301 %r{/addon-fim/2-0/configuration.html}, "/addon-fim/2-0/installing.html"
