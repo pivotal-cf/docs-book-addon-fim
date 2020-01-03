@@ -7,4 +7,4 @@ r301 %r{.*}, 'https://docs.pivotal.io$&', :if => Proc.new { |rack_env|
 # r301 %r{/addon-fim/(?![\d-]+)(.*)}, "/addon-fim/1-3/$1"
 
 # Redirect from old configuration topic to new combined installing and configuring topic
-r301 %r{/addon-fim/2-1/configuration.html}, "/addon-fim/2-1/installing.html"
+r301 %r{/addon-fim/2-0/configuration.html}, "/addon-fim/2-0/installing.html"
