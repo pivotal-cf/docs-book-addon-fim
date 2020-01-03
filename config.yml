@@ -31,8 +31,8 @@ sections:
     changelog_href: https://docs.pivotal.io/addon-fim/1-n/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Pivotal File Integrity Monitoring
-    search_placeholder: Search FIM 2.0
+    search_placeholder: Search FIM 2.1
     url_prefix: addon-fim/1-n
-    local_product_version: 2.0
+    local_product_version: 2.1
     local_header_links: []
     local_header_version_list: []
