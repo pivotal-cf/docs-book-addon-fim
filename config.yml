@@ -23,33 +23,16 @@ sections:
 - repository:
     name: pivotal-cf/docs-addon-fim
     ref: 'master'
-  directory: addon-fim/1-n
-  subnav_template: addon_fim_1-n.erb
+  directory: addon-fim/2-n
+  subnav_template: addon_fim_2-n.erb
   product_info:
     use_local_header: true
     latest_stable_version: 2.0
-    changelog_href: https://docs.pivotal.io/addon-fim/1-n/release-notes.html
+    changelog_href: https://docs.pivotal.io/addon-fim/2-n/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: Pivotal File Integrity Monitoring
     search_placeholder: Search FIM 2.1
-    url_prefix: addon-fim/1-n
+    url_prefix: addon-fim/2-n
     local_product_version: 2.1
-    local_header_links: []
-    local_header_version_list: []
-
-- repository:
-    name: pivotal-cf/docs-addon-fim
-    ref: '2.0'
-  directory: addon-fim/2-0
-  subnav_template: addon_fim_2-0.erb
-  product_info:
-    use_local_header: true
-    latest_stable_version: 2.0
-    changelog_href: https://docs.pivotal.io/addon-fim/2-0/release-notes.html
-    local_header_img: /images/cloud_rings.png
-    local_header_title: Pivotal File Integrity Monitoring
-    search_placeholder: Search FIM 2.0
-    url_prefix: addon-fim/2-0
-    local_product_version: 2.0
     local_header_links: []
     local_header_version_list: []
