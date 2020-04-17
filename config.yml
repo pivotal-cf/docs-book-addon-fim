@@ -35,7 +35,7 @@ sections:
     url_prefix: addon-fim/2-n
     local_product_version: '2.1'
     local_header_links: []
-    local_header_version_list: []
+    local_header_version_list:
       - url_prefix: http://docs.pivotal.io/addon-fim/2-0
         display_name: 2.0
       - url_prefix: http://docs.pivotal.io/addon-fim/1-4
