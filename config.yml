@@ -33,7 +33,7 @@ sections:
     local_header_title: Pivotal File Integrity Monitoring
     search_placeholder: Search FIM 1.4
     url_prefix: addon-fim/1-4
-    local_product_version: 1.4
+    local_product_version: '1.4'
     local_header_links: []
     local_header_version_list:
       - url_prefix: http://docs.pivotal.io/addon-fim/2-0
