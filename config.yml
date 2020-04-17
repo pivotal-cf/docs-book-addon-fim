@@ -33,7 +33,7 @@ sections:
     local_header_title: FIM Add-on for PCF
     search_placeholder: Search Fim Add-on for PCF 1.3
     url_prefix: addon-fim/1-3
-    local_product_version: 1.3
+    local_product_version: '1.3'
     local_header_links: []
     local_header_version_list:
       - url_prefix: http://docs.pivotal.io/addon-fim/2-0
