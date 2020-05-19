@@ -1,7 +1,7 @@
 ---
 book_repo: pivotal-cf/docs-book-addon-fim
 layout_repo: pivotal-cf/docs-layout-repo
-layout_repo_ref: edge
+layout_repo_ref: master
 
 feedback_enabled: true
 
@@ -23,16 +23,16 @@ sections:
 - repository:
     name: pivotal-cf/docs-addon-fim
     ref: 'master'
-  directory: addon-fim/2-n
-  subnav_template: addon_fim_2-n.erb
+  directory: addon-fim/2-1
+  subnav_template: addon_fim_2-1.erb
   product_info:
     use_local_header: true
-    latest_stable_version: 2.0
-    changelog_href: https://docs.pivotal.io/addon-fim/2-n/release-notes.html
+    latest_stable_version: 2.1
+    changelog_href: https://docs.pivotal.io/addon-fim/2-1/release-notes.html
     local_header_img: /images/cloud_rings.png
     local_header_title: File Integrity Monitoring
     search_placeholder: Search FIM 2.1
-    url_prefix: addon-fim/2-n
+    url_prefix: addon-fim/2-1
     local_product_version: '2.1'
     local_header_links: []
     local_header_version_list:
