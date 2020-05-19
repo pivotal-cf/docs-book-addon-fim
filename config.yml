@@ -22,7 +22,7 @@ sections:
 
 - repository:
     name: pivotal-cf/docs-addon-fim
-    ref: 'master'
+    ref: '2.1'
   directory: addon-fim/2-1
   subnav_template: addon_fim_2-1.erb
   product_info:
