@@ -1,0 +1,10 @@
+<% if product_info['local_product_version'] == '1.2' %>
+ <p class="note warning"><strong>Warning:</strong> File Integrity Monitoring Add-on for PCF
+ v<%= product_info['local_product_version'] %> is no longer supported
+ because it has reached the End of General Support (EOGS) phase as defined by the
+ <a href="https://pivotal.io/support/lifecycle_policy">Support Lifecycle Policy</a>.
+ To stay up to date with the latest software and security updates,
+ upgrade to a supported version.
+ </p>
+ <% else %>
+ <% end %>
