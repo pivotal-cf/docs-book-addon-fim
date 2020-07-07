@@ -30,7 +30,7 @@ sections:
     latest_stable_version: 2.1
     changelog_href: https://docs.pivotal.io/addon-fim/2-n/release-notes.html
     local_header_img: /images/cloud_rings.png
-    local_header_title: File Integrity Monitoring
+    local_header_title: File Integrity Monitoring for VMware Tanzu
     search_placeholder: Search FIM 2.2
     url_prefix: addon-fim/2-n
     local_product_version: '2.2'
