@@ -20,9 +20,9 @@ Each version of FIM has its own book branch:
 |-------------| -------|
 | master      | "edge" branch for v2.x, publishes to https://docs-pcf-staging.cfapps.io/addon-fim/2-n/ |
 | 2.1         | v2.1.x |
-| 2.0         | v2.0.x |
-| 1.4         | v1.4.x |
-| 1.3         | v1.3.x |
+| 2.0         | DEPRECATED. DO NOT USE. |
+| 1.4         | DEPRECATED. DO NOT USE. |
+| 1.3         | DEPRECATED. DO NOT USE. |
 | 1.2         | DEPRECATED. DO NOT USE. |
 
 ## The Docs Toolchain
