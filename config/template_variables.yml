@@ -17,7 +17,7 @@ template_variables:
   support_url: http://support.pivotal.io
   path_to_partials: /fim/partials
   api_version: 235
-  gtm_account_id: GTM-MW4LZHR
+  gtm_account_id: GTM-MM86KCJ
 
 # Product variables
   platform_name: Pivotal Platform
