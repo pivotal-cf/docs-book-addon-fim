@@ -5,4 +5,4 @@ r301 %r{.*}, 'https://docs.pivotal.io$&', :if => Proc.new { |rack_env|
 
 # Redirect from old configuration topic to new combined installing and configuring topic
 
-r301 %r{/addon-fim/2-1/(.*)}, "https://docs.vmware.com/en/File-Integrity-Monitoring-for-VMware-Tanzu/2.1/fim/GUID-index.html"
+
