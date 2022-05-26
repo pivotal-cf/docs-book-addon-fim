@@ -4,3 +4,5 @@ r301 %r{.*}, 'https://docs.pivotal.io$&', :if => Proc.new { |rack_env|
 }
 
 r301 %r{/addon-fim/2-1/(.*)}, "https://docs.vmware.com/en/File-Integrity-Monitoring-for-VMware-Tanzu/2.1/fim/GUID-$1"
+r301 %r{/addon-fim/2-1/}, "https://docs.vmware.com/en/File-Integrity-Monitoring-for-VMware-Tanzu/2.1/fim/GUID-index.html"
+r301 %r{/addon-fim/2-1}, "https://docs.vmware.com/en/File-Integrity-Monitoring-for-VMware-Tanzu/2.1/fim/GUID-index.html"
